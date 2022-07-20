@@ -1,0 +1,552 @@
+@media screen and (max-width: 1200px){
+
+    header{
+        height: 95vh;
+    }
+
+    .hero-text-box{
+        width: 95%;
+    }
+    .all-header-page{
+        height: 60vh;
+    }
+
+    .all-header-page .hero-text-box{
+        width: 95%;
+    }
+
+    .hero-text-box h1{
+        width: 80%;
+    }
+
+    #topBtn{
+        right: 1rem;
+    }
+
+    .contact-form .row{
+        margin-left: 0;
+    }
+}
+
+@media screen and (max-width: 1170px){
+    .row{
+        margin: 0 15px;
+    }
+}
+
+@media screen and (max-width: 1049px){
+    .client-review{
+       max-width: 100%;
+       text-align: center;
+    }
+    .testimonial-item ul li{
+        display: block;
+    }
+    
+    .testimonial-item{
+        padding-bottom: 7rem;
+    }
+
+    .testimonial-item .client-info{
+        text-align: center;
+    }
+    .testimonial-item .client-info img{
+        display: block;
+        margin: 0 auto;
+    }
+    .client-rating ul li{
+        display: inline-block;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    header{
+        height: 100vh;
+    }
+    .main-nav{
+        display: none;
+    }
+
+    .mobile-menu span{
+        display: block;
+    }
+
+    .all-header-page{
+        height: 55vh;
+    }
+
+    .hero-text-box h1{
+        font-size: 5rem;
+    }
+
+    .about-img img{
+        width: 100%;
+    }
+    .counter-about{
+        margin-top: 3.5rem;
+    }
+
+    .what-we-do-img img{
+        width: 100%;
+    }
+    .what-we-do-content .p{
+        margin-top: 2rem;
+    }
+
+    .client-review-section .row:nth-child(2){
+        margin-top: 3.5rem;
+    }
+
+    .join-the-img img{
+        width: 97%;
+    }
+    .join-the-box{
+        margin-top: 2rem;
+    }
+    .join-the-content p{
+        margin-top: 2rem;
+    }
+}
+
+@media screen and (max-width: 980px){
+
+    .hero-text-box h1{
+        width: 90%;
+    }
+
+    .cursor{
+        display: none;
+    }
+    .follower{
+        display: none;
+    }
+
+    .about-section .span_1_of_2{
+        width: 100%;
+    }
+    .about-section .col:nth-child(2){
+        margin-top: 4.5rem;
+    }
+    .about-img img{
+        width: 60%;
+        display: block;
+        margin: 0 auto;
+    }
+    .counter-about{
+        margin-top: 4.5rem;
+    }
+
+    .work-title-section .span_1_of_2{
+        width: 49.2%;
+    }
+
+    .what-we-do-section .span_1_of_2{
+        width: 100%;
+    }
+    .what-we-do-img img{
+        width: 60%;
+        display: block;
+        margin: 0 auto;
+    }
+    .what-we-do-section .col:nth-child(2){
+        margin-top: 4.5rem;
+    }
+
+    .join-the-team-section .span_1_of_2{
+        width: 100%;
+    }
+    .join-the-img img{
+        width: 60%;
+        display: block;
+        margin: 0 auto;
+    }
+    .join-the-team-section .col:nth-child(2){
+        margin-top: 4.5rem;
+    }
+
+    .home-news-section .span_1_of_3{
+        width: 49.2%;
+    }
+    .home-news-section .col:nth-child(3){
+        margin-left: 25%;
+        margin-top: 3.5rem;
+    }
+
+    .footer-section .span_1_of_3{
+        width: 100%;
+    }
+    .footer-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .footer-section .col:nth-child(3){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .news-contact-form form input[type="email"]{
+        width: 70%;
+    }
+    .footer-bottom-section{
+        text-align: center;
+    }
+    .footer-bottom-section .span_1_of_2{
+        width: 100%;
+    }
+    .footer-menu ul{
+        float: none;
+    }
+    .footer-bottom-section .col:nth-child(2){
+        margin-left: 0;
+    }
+
+    .team-section .span_1_of_3{
+        width: 49.2%;
+    }
+    .team-section .col:nth-child(3){
+        margin-left: 25%;
+        margin-top: 3.5rem;
+    }
+    .shot-des{
+        width: 80%;
+    }
+
+    .services-section .span_1_of_3{
+        width: 49.2%;
+    }
+    .services-section .col:nth-child(3){
+        margin-left: 0;
+        margin-top: 4.5rem
+    }
+    .services-section .col:nth-child(4){
+        margin-right: 1rem;
+    }
+    .services-section .col:nth-child(5){
+        margin-left: 0;
+    }
+
+    .portfolio-section .span_1_of_3{
+        width: 49.2%;
+    }
+    .portfolio-section .col:nth-child(3){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .portfolio-section .col:nth-child(4){
+        margin-left: 1rem;
+    }
+    .portfolio-section .col:nth-child(5){
+        margin-left: 0;
+    }
+
+    .contact-section .span_1_of_3{
+        width: 100%;
+    }
+    .contact-section .span_2_of_3{
+        width: 100%;
+        margin-top: 4.5rem;
+    }
+    .map iframe{
+        height: 30rem;
+    }
+    .contact-info-box span{
+        font-weight: 500;
+    }
+     
+    .testimonial-item{
+        padding-bottom: 10rem;
+    }
+}
+
+@media screen and (max-width: 850px){
+    .hero-text-box h1{
+        width: 100%;
+        margin-top: 3.5rem;
+    }
+    .video-box .play-btn{
+        width: 6rem;
+        height: 6rem;
+    }
+    .video-box .play-btn i{
+        line-height: 6rem;
+        font-size: 1.7rem;
+    }
+    .video-box .play-btn:before,
+    .video-box .play-btn:after{
+        border: .2rem solid #fff;
+    }
+    @keyframes animate{
+        0%{
+            transform: scale(.5);
+        }
+        50%{
+            opacity: 1;
+        }
+        100%{
+            transform: scale(1);
+        }
+    }
+
+    h2{
+        font-size: 3.5rem;
+    }
+
+    .all-header-page .hero-text-box h3{
+        font-size: 3.5rem;
+    }
+
+    .about-img img{
+        width: 80%;
+    }
+
+    .selected-box a{
+        font-size: 2rem;
+    }
+
+    .what-we-do-img img{
+        width: 80%;
+    }
+
+    .join-the-img img{
+        width: 80%;
+    }
+
+    .blog-content h4 a{
+        font-size: 2.2rem;
+    }
+    .recent-post .small-title a{
+        font-size: 1.4rem;
+    }
+
+    .Digital-technology-Dox h3{
+        font-size: 2.3rem;
+    }
+    .blog-details-tes p{
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .all-header-page{
+        height: 50vh;
+    }
+
+    .blog-content h4 a{
+        font-size: 2rem;
+    }
+    .recent-post .small-title a{
+        font-size: 1.3rem;
+    }
+}
+
+@media screen and (max-width: 720px){
+    header{
+        height: 110vh;
+    }
+    .hero-text-box{
+        top: 15%;
+    }
+    .hero-text-box h1{
+        font-size: 4.5rem;
+    }
+
+    .selected-box .span_1_of_2{
+        width: 100%;
+    }
+    .selected-box .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .selected-box .col:nth-child(4){
+        margin-left: 0;
+    }
+
+    .testimonial-item{
+        padding-bottom: 16rem;
+    }
+
+    .home-news-section .span_1_of_3{
+        width: 100%;
+    }
+    .home-news-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .home-news-section .col:nth-child(3){
+        margin-left: 0;
+    }
+
+    .brand-section .span_1_of_4{
+        width: 49.2%;
+    }
+    .brand-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .brand-box img{
+        max-width: 100%;
+        display: block;
+        margin: 0 auto;
+    }
+    .brand-section .row:nth-child(3){
+        margin-top: 3.5rem;
+    }
+    .brand-section .row:nth-child(2) .col:nth-child(3){
+        margin-top: 3.5rem;
+    }
+    .brand-section .row:nth-child(2) .col:nth-child(4){
+        margin-top: 3.5rem;
+    }
+    .brand-section .row:nth-child(3) .col:nth-child(3){
+        margin-top: 3.5rem;
+    }
+    .brand-section .row:nth-child(3) .col:nth-child(4){
+        margin-top: 3.5rem;
+    }
+
+    .news-contact-form form input[type="email"]{
+        width: 100%;
+    }
+
+    .team-section .span_1_of_3{
+        width: 100%;
+    }
+    .team-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .team-section .col:nth-child(3){
+        margin-left: 0;
+    }
+    .shot-des{
+        width: 90%;
+    }
+
+    .services-section .span_1_of_3{
+        width: 100%;
+    }
+    .services-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 4.5rem
+    }
+    .services-section .col:nth-child(4){
+        margin-right: 0;
+    }
+    .services-section .col:nth-child(6){
+        margin-left: 0;
+    }
+
+    .portfolio-section .span_1_of_3{
+        width: 100%;
+    }
+    .portfolio-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+    .portfolio-section .col:nth-child(4){
+        margin-left: 0;
+    }
+    .portfolio-section .col:nth-child(6){
+        margin-left: 0;
+    }
+
+    .blog-section .span_2_of_3{
+        width: 100%;
+    }
+    .blog-section .span_1_of_3{
+        width: 100%;
+    }
+    .sidebar{
+        margin-top: 4rem;
+    }
+    .recent-post .small-title a{
+        font-size: 1.5rem;
+    }
+    .blog-content h4 a{
+        font-size: 2.2rem;
+    }
+    .Digital-technology-Dox h3{
+        font-size: 2.5rem;
+    }
+}
+
+@media screen and (max-width: 480px){
+    html{
+        font-size: 56.25%;
+    }
+
+    header{
+        height: 120vh;
+    }
+
+    .hero-text-box{
+        top: 15%;
+    }
+
+    .hero-text-box h1{
+        font-size: 4rem;
+    }
+
+    h2{
+        font-size: 3.2rem;
+    }
+
+    .about-img img{
+        width: 100%;
+    }
+
+    .what-we-do-img img{
+        width: 100%;
+    }
+    .what-we-do-content .btn-all{
+        margin-top: 5.5rem;
+    }
+
+    .work-title-section .span_1_of_2{
+        width: 100%;
+    }
+    .work-title-section .col:nth-child(2){
+        margin-left: 0;
+        margin-top: 3.5rem;
+    }
+
+    .testimonial-item{
+        padding-bottom: 19rem;
+    }
+    .client-review p{
+        font-size: 1.7rem;
+    }
+
+    .search-box ul li:nth-child(1){
+        width: 90%;
+    }
+
+    .shot-des{
+        width: 100%;
+    }
+
+    .all-header-page .hero-text-box h3{
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 350px){
+    html{
+        font-size: 50%;
+    }
+
+    .brand-box img{
+        max-width: 80%;
+    }
+    .brand-section .row:nth-child(2) .col:nth-child(4){
+        margin-top: 4.5rem;
+    }
+}
+
+@media screen and (max-width: 330px){
+    .hero-text-box h1{
+        font-size: 3.5rem;
+        margin-left: -1rem;
+    }
+    .testimonial-item{
+        padding-bottom: 20rem;
+    }
+}
